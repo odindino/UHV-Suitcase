@@ -6,3 +6,4 @@ Materials
 2. VAT Mini Gate Valve (CF35)
 3. SAES Z100 ion pump
 4. UHV Design wobblestick WSG40-300
+5. Homemade 2x Sample holder and 2x tip holder
